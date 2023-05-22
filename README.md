@@ -16,14 +16,3 @@ This is a responsive banner template that showcases an image along with navigati
 4. Customize the styles of the banner and navigation elements in the CSS section according to your design preferences.
 5. Test the banner in different screen sizes to ensure its responsiveness.
 
-## Contributing
-
-Contributions to this project are currently not being accepted.
-
-## License
-
-This template is for demonstration purposes only and is not available for commercial use.
-
----
-
-For any inquiries or support, please contact the administrator at admin@yourcompany.com. Enjoy using the Responsive Banner!
